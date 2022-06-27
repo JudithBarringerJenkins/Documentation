@@ -14,21 +14,27 @@ Donna Smith
 **Indicators**
 
 Accuracy  - Accurate completion is necessary to meet Infosec audit standards
+
 Completeness - All required fields filled out completely
+
 Availability - The service will be provided Monday - Saturday excluding holidays.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Objectives**
 
 Accuracy - 99.9% accurate upon completion to meet Infosec audit standards
+
 Completeness - 99.9% fields completed per procedure
+
 Availability - 99.9% available during Monday - Saturday excluding holidays.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 **Agreements**
 
 Accuracy -99% accurate upon completion to meet Infosec audit standards
+
 Completeness - 99% fields completed within 7 business days
+
 Availability - 99% available during Monday - Friday excluding holidays
 
 <html>
